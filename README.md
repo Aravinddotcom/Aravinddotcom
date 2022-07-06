@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aravind @Aravinddotcom
-- 👀 I’m interested in Webapp, Android development, Security
-- 🌱 I’m currently learning Information Technology
-- 📫 How to reach me ....
+- 👀 Webapp, Android development, Security
+- 🌱 Full Stack JAVA WEB, Spring, AWS
+- 📫 How to reach me ....404
