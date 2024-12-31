@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Aravind @Aravinddotcom
-- 👀 Webapp, Android development, Security
-- 🌱 Full Stack JAVA WEB, Spring, AWS
-- 📫 How to reach me ....404
+- 👀 Web Apps, Blockchain, Web3, Cloud Networking
+- 🌱 Full Stack Java, Angular, WEB3, Spring, AWS, NodeJs, Hyperledger Farbic
+- 📫 How to reach me - aravind2282000@gmail.com
